@@ -27,4 +27,4 @@ This repository contains three MATLAB scripts that estimate the value of Pi usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MonteCarloPiEstimation.git
+   git clone https://github.com/bestOfaaditya/MonteCarloPiEstimation.git
